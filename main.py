@@ -9,6 +9,7 @@ club_members = [
     "Akiko Yosano",
     "Kenji Miyazawa",
     "Kyoka Izumi",
+    "Jun'ichirō Tanizaki",
 ]
 
 def check_membership(event):
